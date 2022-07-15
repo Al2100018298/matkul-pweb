@@ -1,0 +1,169 @@
+* {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	background-color: #f1eeea;
+    height: 100%;
+}
+
+a.login {
+	background: #FFE61B;
+	border-radius: 20px;
+	margin-top: 20px;
+	padding: 15px 20px 15px 20px;
+	color: #005555;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.wrapper {
+	width: 1100px;
+	margin: auto;
+	position: relative;
+	overflow: hidden;
+	
+}
+
+.logo a {
+	font-size: 40px;
+	font-weight: bold;
+	float: left;
+	font-family: sans-serif;
+	color: #F9FFA4;
+}
+
+.menu {
+	float: right;
+}
+
+.isi {
+	float: center;
+	margin-top: 150px;
+	text-align: center;
+	margin-bottom: 50px;
+	margin-left:140px;
+	color: #603601;
+
+}
+
+section {
+	margin: auto;
+	display: flex;
+	margin-bottom: 0px;
+}
+
+.ilustrasi {
+	width: 450px;
+	height: 400px;
+	margin-top: 30px;
+}
+.list {
+	text-align: center;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	
+}
+
+.daftar {
+	margin-top: 50px;
+	float: center;
+}
+
+.univ {
+	font-size: 20px;
+	float: center;
+	margin: auto;
+	padding-right: 100px;
+	padding-left: 200px;
+	background-color: #F9FFA4;
+	color: #603601;
+}
+.galeri {
+	font-size: 20px;
+	float: center;
+	margin: auto;
+	padding-right: 210px;
+	padding-left: 200px;
+	color: #603601;
+	background-color: #f1eeea;
+	width: 100%;
+	text-align: center;
+}
+
+.komentar {
+	background-color: #f1eeea;
+	float: center;
+	margin: auto;
+	width: 100%;
+
+}
+
+.tabel {
+	float: center;
+	text-align: center;
+}
+#contact {
+	padding: 50px 0px 50px 0px;
+	background-color: #603601;
+}
+
+.footer {
+	width: 100%;
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+	background-color: #603601;
+}
+
+.footer-section {
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	background-color: #603601;
+    text-decoration: none;
+    text-align: center;
+    color: #F9FFA4;
+}
+
+nav {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80px;
+	overflow: hidden;
+	background-color: #603601;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	color: #F9FFA4;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 15px 0px 15px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+}

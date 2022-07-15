@@ -1,0 +1,32 @@
+body{
+	background: linear-gradient(to right,#005555,#F9FFA4,#005555);
+}
+h1 {
+	text-align: center;
+	padding-top: 5%;
+}
+.wrapper {
+	width: 40%;
+	margin: auto;
+	color: white;
+	border-radius: 10px;
+	background-color: #53BF9D;
+}
+.content {
+	padding: 5px;
+	margin: 20%;
+}
+table {
+	margin: auto;
+	padding-bottom: 6%;
+}
+table td {
+	padding: 6px;
+}
+button {
+	width: 60px;
+	font-family: sans-serif;
+	height: 30px;
+	background-color: #00ffff;
+	border-radius: 6px;
+}
